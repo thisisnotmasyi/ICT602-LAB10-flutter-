@@ -1,6 +1,6 @@
 # LAB10 - FLUTTER
 ## Snipped Code
-****************************
+
 ### Login function
 ```
 try {
